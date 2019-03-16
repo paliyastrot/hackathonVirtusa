@@ -1,0 +1,17 @@
+/* PLACE YOU CUSTOM STYLES IN THIS FILE */
+
+
+.nk-product-title-x {
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+.nk-product-title-x > a {
+    text-decoration: none;
+    color: inherit;
+    transition: .3s opacity;
+}
+
+.nk-product-title-x > a:hover, .nk-product-title > a.hover {
+    opacity: 0.8;
+}
